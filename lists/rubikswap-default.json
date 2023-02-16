@@ -1,5 +1,5 @@
 {
-    "name": "Son Default",
+    "name": "RubikSwap Default",
     "timestamp": "2022-03-01T08:37:04.410Z",
     "version": {
         "major": 2,
@@ -8,18 +8,10 @@
     },
     "logoURI": "https://pancakeswap.finance/logo.png",
     "keywords": [
-        "son",
+        "rubikswap",
         "default"
     ],
     "tokens": [
-        {
-            "name": "WBNB Token",
-            "symbol": "WBNB",
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "image": "https://pancakeswap.finance/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
-        },
         {
             "name": "BUSD Token",
             "symbol": "BUSD",
