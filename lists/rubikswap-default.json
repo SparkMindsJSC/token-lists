@@ -6,7 +6,7 @@
         "minor": 16,
         "patch": 5
     },
-    "logoURI": "https://pancakeswap.finance/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/SparkMindsJSC/token-lists/main/image/logo.png",
     "keywords": [
         "rubikswap",
         "default"
@@ -59,6 +59,6 @@
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://tokens.pancakeswap.finance/images/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F.png"
-        },
+        }
     ]
 }
